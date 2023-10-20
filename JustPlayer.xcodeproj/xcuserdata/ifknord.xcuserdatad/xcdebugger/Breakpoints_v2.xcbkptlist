@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C4892607-BF6D-46CE-87FA-00D6D7692772"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC154C65-B99B-4F62-9A7C-9AE578BB407B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustPlayer/PlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "loadPlaylist()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73D668FE-16D4-4D3F-AE91-9A520B3A33A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustPlayer/PlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "savePlaylist()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD72781C-4AD2-48A0-9318-6217E2FB25D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustPlayer/UI/PlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "savePlaylist()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD72781C-4AD2-48A0-9318-6217E2FB25D5 - 9fde145b3e2242b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustPlayer.PlayerViewModel.savePlaylist() -&gt; ()"
+                  moduleName = "JustPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifknord/Work/JustPlayer/JustPlayer/UI/PlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "AD72781C-4AD2-48A0-9318-6217E2FB25D5 - 9fde145b3e2242b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustPlayer.PlayerViewModel.savePlaylist() -&gt; ()"
+                  moduleName = "JustPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifknord/Work/JustPlayer/JustPlayer/UI/PlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "AD72781C-4AD2-48A0-9318-6217E2FB25D5 - 9fde145b3e224292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustPlayer.PlayerViewModel.savePlaylist() -&gt; ()"
+                  moduleName = "JustPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifknord/Work/JustPlayer/JustPlayer/UI/PlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFE6A3FC-4F76-4601-87B4-5BC2A109556A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustPlayer/UI/PlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "loadPlaylist()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFE6A3FC-4F76-4601-87B4-5BC2A109556A - fecff1c0d02ac5eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustPlayer.PlayerViewModel.loadPlaylist() -&gt; ()"
+                  moduleName = "JustPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifknord/Work/JustPlayer/JustPlayer/UI/PlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "AFE6A3FC-4F76-4601-87B4-5BC2A109556A - fecff1c0d02ac5eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustPlayer.PlayerViewModel.loadPlaylist() -&gt; ()"
+                  moduleName = "JustPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifknord/Work/JustPlayer/JustPlayer/UI/PlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
